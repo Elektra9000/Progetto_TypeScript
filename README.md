@@ -7,26 +7,33 @@ The main goal is to facilitate citizens’ access to government bonuses by model
 Through a structured logic, the system aims to make connections more efficient between those providing financial support and those requesting it, fostering innovation and active participation.
 
 
-📂 ##Project Structure
+## 📂Project Structure
   
 <img width="159" alt="image" src="https://github.com/user-attachments/assets/8b2aa70b-2580-468d-81bc-80784d184c69" />
 
 
-⚙##Project Installation
+## ⚙Project Installation
 
 Clone the repo:
+```sh
 https://github.com/Elektra9000/Progetto_TypeScript.git
+```
 
 Install required packages:
+```sh
 npm install
+```
 
-Run the build process 
+Run the build process
+```sh
 npx tsc
+```
 
 To display the result directly in the terminal, run:
+```sh
 node dist/instances.js
+```
 
-
-🔗##Explore the demo on CodePen 
+## 🔗Explore the demo on CodePen 
 [https://codepen.io/Elektra9000/pen/XJJZLJZ]
 
