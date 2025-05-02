@@ -1,6 +1,6 @@
 # Progetto_TypeScript
 
-![Startup Icon](https://esempio.com/icon.png) Project Overview
+##🚀Project Overview
 
 This project focuses on developing a system in TypeScript that simulates the operations of an innovative startup called Bonny.
 The main goal is to facilitate citizens’ access to government bonuses by modeling the interactions between startups, governmental incentives, and participants.
