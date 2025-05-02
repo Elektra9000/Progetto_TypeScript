@@ -9,7 +9,7 @@ Through a structured logic, the system aims to make connections more efficient b
 
 ## 📂Project Structure
   
-<img width="159" alt="image" src="https://github.com/user-attachments/assets/8b2aa70b-2580-468d-81bc-80784d184c69" />
+![image](https://github.com/user-attachments/assets/076176cc-5fbd-4b60-9837-f7a4dfdfb005)
 
 
 ## ⚙Project Installation
